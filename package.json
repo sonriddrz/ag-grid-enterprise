@@ -39,7 +39,7 @@
     "gulp-rename": "1.2.2"
   },
   "peerDependencies": {
-    "ag-grid": "14.0.x"
+    "ag-grid": "14.0.1"
   },
   "dependencies": {}
 }
